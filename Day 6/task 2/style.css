@@ -1,0 +1,15 @@
+h1,h2{
+    color: blueviolet;
+}
+.box>p{
+    color: firebrick;
+}
+li:nth-child(1){
+    color: blue;
+}
+li{
+    color :green;
+}
+ul p.done{
+    font-size: 0.5rem;
+}
